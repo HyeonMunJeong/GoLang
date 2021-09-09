@@ -39,4 +39,7 @@ func main() {
 
 	// 01. 타입 변환
 	typeChange()
+
+	// 02. fmt 입출력 패키지
+	fmtPackage()
 }
