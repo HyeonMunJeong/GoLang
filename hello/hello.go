@@ -42,4 +42,7 @@ func main() {
 
 	// 02. fmt 입출력 패키지
 	fmtPackage()
+
+	// 03. 변수와 상수
+	variableConstants()
 }
